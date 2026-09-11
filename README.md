@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[README.md](https://github.com/user-attachments/files/32059351/README.md)
+>>>>>>> 68c23081e64cb71a15f7d81a05df63001243f8b7
 
 # [FSPG-Net: A Frequency-Spatial Synergistic-Decoupling and Phase Guided Network for SAR Ship Detection](https://ieeexplore.ieee.org/document/10757443)
 
@@ -30,4 +34,7 @@ python val.py
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 68c23081e64cb71a15f7d81a05df63001243f8b7
