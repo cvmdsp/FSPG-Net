@@ -1,0 +1,24 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# HRSID dataset https://opendatalab.org.cn/OpenDataLab/HRSID
+
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── DOTA (Optical)
+#     └── HRSC2016 (Optical)
+#     └── HRSID (SAR)
+#     └── SSDD (SAR)
+#     └── MSHD (Optical&SAR)
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../datasets/HRSID
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: ship
+
+
+
+
